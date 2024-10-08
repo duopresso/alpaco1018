@@ -23,7 +23,7 @@
 딥러닝은 CNN을 사용하였다 
 
  ※모델설계 
-![architecture](https://github.com/user-attachments/assets/db4b3445-9c6a-4a47-9592-759c56efe976)
+![whisper](https://github.com/user-attachments/assets/48a1e8b2-848d-43fb-81d4-8fe4b8400667)
 
 
 ## 4, 데이터
